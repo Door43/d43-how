@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[how:home|Door43 (how)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-how|d43-how repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-how/archive/master.zip|d43-how.zip]]
+
+**Recent Changes**
+{{changes>ns = how}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/how|Ethnologue data]]
+
